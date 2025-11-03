@@ -16,7 +16,7 @@ This project showcases skills in **data cleaning, feature engineering, regressio
 - Engineer derived financial metrics like moving averages, log returns, and volume ratios.  
 - Train multiple regression models to predict Bitcoin closing prices.  
 - Optimize model performance with GridSearchCV or RandomizedSearchCV.  
-- Visualize performance metrics and trends using Matplotlib and Seaborn.
+- Visualize performance metrics and trends using Matplotlib and Seaborn.   
 
 ---
 
